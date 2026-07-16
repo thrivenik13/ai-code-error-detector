@@ -128,18 +128,6 @@ The AI provides:
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-(Add screenshot here)
-
-### AI Analysis
-
-(Add screenshot here)
-
----
-
 ## 🔮 Future Improvements
 
 - User authentication
